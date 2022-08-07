@@ -1,0 +1,77 @@
+.principal{
+	position: relative;
+	display: inline-block;
+}
+
+.titulo{
+	position: absolute;
+	height: 89px;
+    width: 526px;
+    left: 312px;
+    top: 487px;
+    border-radius: nullpx;
+   font-family: roboto;
+   font-style:Bold;
+   font-size: 48px;
+   vertical-align:center;
+   line-height: 56px;
+   aling: center;
+
+   opacity: 100%;
+   blend: normal;
+
+   fill: solid;
+   color: #FFFCFC;
+}
+
+.subtitulo{
+	position: absolute;
+	height: 76px;
+    width: 456px;
+    left: 312px;
+    top: 662px;
+    font-family: roboto;
+   font-style:Bold;
+   font-size: 36px;
+   vertical-align:center;
+   line-height: 42px;
+   aling: center;
+
+    fill: solid;
+    color: #000000;
+}
+
+.italia{
+	position: absolute;
+		height: 232px;
+    width: 306px;
+    left: 312px;
+    top: 791px;
+
+}
+
+
+.argentina{
+	position: absolute;
+	height: 234px;
+    width: 306px;
+    left: 642px;
+    top: 791px;
+}
+
+.australia{
+	position: absolute;
+	height: 234px;
+    width: 306px;
+    left: 968px;
+    top: 791px;
+}
+
+.cancun{
+	position: absolute;
+	height: 234px;
+    width: 306px;
+    left: 1298px;
+    top: 791px;
+}
+
